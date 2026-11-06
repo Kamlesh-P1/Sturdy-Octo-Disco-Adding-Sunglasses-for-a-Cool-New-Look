@@ -2,7 +2,7 @@
 
 # **Name:** KAMLESH P
 
-# **Register Number:** 212225240067   
+# **Register Number:** 212225240067  
 
 ## Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
